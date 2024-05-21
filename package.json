@@ -6,5 +6,9 @@
   "license": "MIT",
   "dependencies": {
     "@winglibs/websockets": "^0.3.2"
-  }
+  },
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
 }
